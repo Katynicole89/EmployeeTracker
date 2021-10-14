@@ -1,7 +1,7 @@
 # Employee Tracker
 
 Create an interface to view and interact with information stored in a database. 
-![Screenshot](screenshot.jpg)
+
 
 ## User Story
 AS A business owner
