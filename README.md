@@ -4,9 +4,9 @@ Create an interface to view and interact with information stored in a database.
 
 
 ## User Story
-AS A business owner
-I WANT to be able to view and manage the departments, roles, and employees in my company
-SO THAT I can organize and plan my business
+AS A business owner\
+I WANT to be able to view and manage the departments, roles, and employees in my company\
+SO THAT I can organize and plan my business\
 
 ## Acceptance Criteria 
 ```
@@ -34,7 +34,7 @@ Mock-Up
 ![Schema](schema.png)
 
 ### Tech Used
-Node.js
-Inquirer 
-MySQL2
-console.table package
+Node.js \
+Inquirer \
+MySQL2 \
+console.table package 
